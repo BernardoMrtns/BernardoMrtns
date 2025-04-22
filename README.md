@@ -1,8 +1,8 @@
-<h1 align="center">👋 Eu sou o Bernardo Martins / I'm Bernardo Martins</h1>
+<h1 align="center">👋 Olá! Eu sou o Bernardo Martins / Hi!, I'm Bernardo Martins</h1>
 
 ---
 
-## <img src="https://flagcdn.com/w40/br.png" width="20" alt="Brazil flag" /> **Português**
+## 🇧🇷 **Português**
 
 🎓 Estudante de **Sistemas de Informação na UFOP**
 
@@ -26,7 +26,7 @@ Tive a oportunidade de estudar no **Canadá (Toronto)**, o que fortaleceu minha 
 
 ---
 
-## <img src="https://flagcdn.com/w40/us.png" width="20" alt="USA flag" /> **English**
+## 🇺🇸 **English**
 
 🎓 Information Systems undergraduate at **UFOP - Brazil**
 
