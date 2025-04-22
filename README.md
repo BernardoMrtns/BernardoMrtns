@@ -2,7 +2,7 @@
 
 ---
 
-## ![Brasil](https://raw.githubusercontent.com/hampusborgos/country-flags/main/png100px/br.png) Português
+## <img src="https://flagcdn.com/w40/br.png" width="20" alt="Brazil flag" /> Português
 
 🎓 Estudante de **Sistemas de Informação na UFOP**
 
@@ -20,7 +20,7 @@ Tive a oportunidade de estudar no **Canadá (Toronto)**, o que fortaleceu minha 
 
 ---
 
-## ![EUA](https://raw.githubusercontent.com/hampusborgos/country-flags/main/png100px/us.png) English
+## <img src="https://flagcdn.com/w40/us.png" width="20" alt="USA flag" /> English
 
 🎓 Information Systems undergraduate at **UFOP - Brazil**
 
