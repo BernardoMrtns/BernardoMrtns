@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Bernardo Martins</h1>
+<h1 align="center">👋 Eu sou o Bernardo Martins / I'm Bernardo Martins</h1>
 
 ---
 
