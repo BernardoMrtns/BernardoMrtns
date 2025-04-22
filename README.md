@@ -1,8 +1,8 @@
-# 👋 Olá! Eu sou o Bernardo Martins
+<h1 align="center">👋 Olá! Eu sou o Bernardo Martins</h1>
 
 ---
 
-## <img src="https://flagcdn.com/w40/br.png" width="20" alt="Brazil flag" /> Português
+## <img src="https://flagcdn.com/w40/br.png" width="20" alt="Brazil flag" /> **Português**
 
 🎓 Estudante de **Sistemas de Informação na UFOP**
 
@@ -10,8 +10,14 @@ Sou um desenvolvedor em formação com foco em **Java** e **JavaScript**, atualm
 
 Tive a oportunidade de estudar no **Canadá (Toronto)**, o que fortaleceu minha fluência em **inglês** e ampliou minha visão sobre carreira e tecnologia.
 
+---
+
 ### 💻 Tecnologias
-- Java • JavaScript • C
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+
+---
 
 ### 🚀 Próximos Passos
 - Contribuir com projetos **open source**
@@ -20,7 +26,7 @@ Tive a oportunidade de estudar no **Canadá (Toronto)**, o que fortaleceu minha 
 
 ---
 
-## <img src="https://flagcdn.com/w40/us.png" width="20" alt="USA flag" /> English
+## <img src="https://flagcdn.com/w40/us.png" width="20" alt="USA flag" /> **English**
 
 🎓 Information Systems undergraduate at **UFOP - Brazil**
 
@@ -28,8 +34,14 @@ I'm a growing developer focused on **Java** and **JavaScript**, currently engage
 
 I had the opportunity to study in **Canada (Toronto)**, which strengthened my **English fluency** and expanded my global and professional perspective.
 
+---
+
 ### 💻 Technologies
-- Java • JavaScript • C
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+
+---
 
 ### 🚀 Next Steps
 - Contribute to **open source** projects
